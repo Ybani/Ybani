@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 🚀 I’m a motivated Business Intelligence student passionate about using technology to turn data into smart, actionable insights. I love exploring new tools and building efficient solutions that solve real-world problems.<br><br>📚 I’m currently expanding my skills in:<br><br>🌐 Web Development and modern tech stacks<br><br>📊 Data Analysis and Business Intelligence tools<br><br>💻 Software Development and practical coding projects<br><br>🤝 I’m always open to:<br><br>🌱 Opportunities that help me grow and gain hands-on experience<br><br>🧠 Tech consulting or freelance work
 
